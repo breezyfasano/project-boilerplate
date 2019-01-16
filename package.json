@@ -1,0 +1,19 @@
+{
+  "name": "new-gulp-starter",
+  "version": "1.0.0",
+  "description": "Updated project boilerplate using Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Breezy Fasano",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.4.5",
+    "browser-sync": "^2.26.3",
+    "cssnano": "^4.1.8",
+    "gulp": "^4.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
