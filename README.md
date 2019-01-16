@@ -1,6 +1,6 @@
 ## Simple HTML Boilerplate & Tooling using Gulp v4
 
-Remember to run `npm init` :grin:
+Remember to run `npm install` :grin:
 
 What's New in 2019's HTML Boilerplate:
 - Fixed broken tasks with Gulp v4 new syntax
