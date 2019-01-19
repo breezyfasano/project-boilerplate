@@ -1,5 +1,14 @@
-$pink: #ff6699;
+// Base
+@import "base/colors";
+@import "base/vars";
+@import "base/mixins";
+@import "base/typography";
+@import "base/core";
 
-body {
-    background: blue;
-}
+// Partials
+@import "partials/navigation";
+@import "partials/buttons";
+
+// Layout
+@import "layout/header";
+@import "layout/footer";
